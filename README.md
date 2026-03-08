@@ -3,6 +3,7 @@
 ![Market Overview](market_overview.png)
 
 📌 Project Overview
+
 This project analyzes the performance of **40 companies listed on the Nairobi Securities Exchange (NSE)** using financial indicators such as market capitalization, valuation ratios, dividend yield, trading volume, and earnings growth.
 
 The objective of the dashboard is to provide **a clear view of market structure, company valuation, and investment opportunities** through interactive visualizations built in Power BI.
@@ -10,6 +11,7 @@ The objective of the dashboard is to provide **a clear view of market structure,
 ---
 
 🎯 Business Problem
+
 Investors and analysts often struggle to quickly understand **which companies dominate the market, which sectors drive growth, and which stocks may be undervalued or overvalued**.
 
 Key Questions:
