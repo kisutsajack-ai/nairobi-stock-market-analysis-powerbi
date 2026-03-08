@@ -88,8 +88,13 @@ Trading activity is concentrated among a small number of highly liquid stocks.
 
 🛠 Tools Used
 Excel (Data Preparation & Cleaning)
+
 Power BI Desktop
+
 DAX
+
 Power Query
+
 Data Modeling
+
 Data Visualization & Financial Analysis
