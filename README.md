@@ -25,6 +25,7 @@ Key Questions:
 ---
 
 🧹 Data Preparation
+
 Prepared the dataset using Excel before importing into Power BI.
 
 - Cleaned financial data and removed inconsistent formats
@@ -36,6 +37,7 @@ Prepared the dataset using Excel before importing into Power BI.
 ---
 
 📐 Data Modeling
+
 Data model designed to support financial analysis and visualization.
 
 Fact Table: **NSE Companies Dataset**
@@ -75,6 +77,7 @@ Highlights:
 ---
 
 ### 2️⃣ Market Overview
+
 Key KPIs and macro-level market insights.
 
 Total Market Capitalization  
@@ -91,6 +94,7 @@ Visualizations:
 ---
 
 ### 3️⃣ Company Analysis
+
 Compares company-level performance and investor activity.
 
 Key Visualizations:
@@ -102,6 +106,7 @@ Key Visualizations:
 ---
 
 ### 4️⃣ Valuation & Growth Analysis
+
 Analyzes company valuation relative to earnings growth.
 
 Scatter plot analysis helps identify:
