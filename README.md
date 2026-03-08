@@ -1,4 +1,6 @@
-📊 Nairobi Securities Exchange (NSE) Market Performance Dashboard
+📊 Nairobi Securities Exchange (NSE) Market Performance Dashboard.
+
+![Market Overview](market_overview.png)
 
 📌 Project Overview
 This project analyzes the performance of **40 companies listed on the Nairobi Securities Exchange (NSE)** using financial indicators such as market capitalization, valuation ratios, dividend yield, trading volume, and earnings growth.
@@ -128,22 +130,3 @@ Scatter plot analysis helps identify:
 - Data Visualization & Financial Analysis
 
 ---
-
-## 📷 Dashboard Preview
-
-Example:
-
-![Market Overview](market_overview.png)
-
-![Company Analysis](company_analysis.png)
-
-![Valuation & Growth](valuation_growth.png)
-
----
-
-👨‍💻 Author
-
-Jack Kisutsa
-Data Analyst  
-
-Tools: Excel • Power BI • Data Visualization • Financial Analysis
